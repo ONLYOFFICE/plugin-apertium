@@ -4,6 +4,8 @@ Quickly translate the selected text into other languages.
 
 The plugin uses [Apertium](https://www.apertium.org/), a free open-source machine translation platform.
 
+Apertium is compatible with [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop](https://github.com/ONLYOFFICE/DesktopEditors) versions of ONLYOFFICE editors. It can be added to ONLYOFFICE instances manually. 
+
 ## How to use
 
 1. Select the text you want to translate.
