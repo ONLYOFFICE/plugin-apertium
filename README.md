@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-apertium. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 Quickly translate the selected text into other languages.
